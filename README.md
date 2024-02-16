@@ -13,4 +13,4 @@ Data and Data Structures
 Development of Data sets using Excel
 Tableau
 
-Link to my project:  https://public.tableau.com/views/VisualsForPortfolioAssignment/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link 
+Link to my project:  https://public.tableau.com/views/WealthofNationsDashboard_17081210820610/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link 

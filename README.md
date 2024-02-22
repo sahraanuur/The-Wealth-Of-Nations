@@ -14,4 +14,6 @@ One factor for this reason is that Monaco has a high value of tourism, is known 
 Life expectancy is  positively correlated to the nation's wealth. Wealthier countries have a higher average life expectancy. We can see Hong Kong ranks number 1 at the age of 85.  One factor for this reason is that  Hong Kong has quality healthcare and social conditions including low infant mortality rate and high youth involvement.
 
 Last graph is showing the average number of smartphone users. The number of smartphone users in a country can also be an indicator of its wealth.  People in advanced economies are more likely to have mobile phones. We can see China ranks first by over 1.5 million smartphone users. India ranks second 
-What these two countries have in common is a high population rate and this contributes to its high number of smartphone users. However, do smartphones have a positive correlation to wealth?  Well, smartphone ownership has become accessible in the past couple of years.
+What these two countries have in common is a high population rate and this contributes to its high number of smartphone users. However, does smartphone ownership have a positive correlation to wealth?
+
+Link to my Wealth of Nations Dashboard: https://public.tableau.com/views/WealthofNationsDashboard_17081210820610/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
